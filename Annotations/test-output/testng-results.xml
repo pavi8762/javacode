@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61" started-at="2020-11-08T15:43:49Z" finished-at="2020-11-08T15:43:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61" started-at="2020-11-08T15:43:49Z" finished-at="2020-11-08T15:43:49Z">
+      <class name="com.testannotations.TestAnnotations">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="11" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="Test1" duration-ms="8" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="Test2" duration-ms="6" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.testannotations.TestAnnotations@6d8a00e3]" name="AfterTest" is-config="true" duration-ms="0" started-at="2020-11-08T19:43:49Z" finished-at="2020-11-08T19:43:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.testannotations.TestAnnotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
