@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16139" started-at="2020-11-11T13:09:28Z" finished-at="2020-11-11T13:09:44Z">
+    <groups>
+      <group name="Chrome">
+        <method signature="ParallelTests01.LaunchChrome()[pri:0, instance:com.parallell.ParallelTests01@4439f31e]" name="LaunchChrome" class="com.parallell.ParallelTests01"/>
+        <method signature="ParallelTests01.TryFacebook1()[pri:0, instance:com.parallell.ParallelTests01@4439f31e]" name="TryFacebook1" class="com.parallell.ParallelTests01"/>
+      </group> <!-- Chrome -->
+    </groups>
+    <test name="Test" duration-ms="16139" started-at="2020-11-11T13:09:28Z" finished-at="2020-11-11T13:09:44Z">
+      <class name="com.parallell.ParallelTests01">
+        <test-method status="PASS" signature="LaunchChrome()[pri:0, instance:com.parallell.ParallelTests01@4439f31e]" name="LaunchChrome" duration-ms="15688" started-at="2020-11-11T17:09:28Z" finished-at="2020-11-11T17:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchChrome -->
+        <test-method status="PASS" signature="TryFacebook1()[pri:0, instance:com.parallell.ParallelTests01@4439f31e]" name="TryFacebook1" duration-ms="416" started-at="2020-11-11T17:09:44Z" depends-on-methods="com.parallell.ParallelTests01.LaunchChrome" finished-at="2020-11-11T17:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TryFacebook1 -->
+      </class> <!-- com.parallell.ParallelTests01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
