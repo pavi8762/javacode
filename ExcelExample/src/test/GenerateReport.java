@@ -13,7 +13,7 @@ public class GenerateReport {
 	public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
 		// TODO Auto-generated method stub
 		
-			ExcelReportGenerator.generateExcelReport("MyProject.xls", "D:/Installations/Eclipse Workspace/ExcelExample");
+			ExcelReportGenerator.generateExcelReport("MyProject.xls", "D:/Installations");
 		
 	}
 
