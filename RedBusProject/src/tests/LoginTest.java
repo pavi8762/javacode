@@ -1,6 +1,7 @@
 package tests;
 
 import java.io.FileInputStream;
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
@@ -11,9 +12,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pages.LoginPage;
+
+@Listeners(ListenerClass.class)
 
 public class LoginTest extends Baseclass {
 	
