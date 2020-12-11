@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4184" started-at="2020-11-28T19:26:15 UTC" finished-at="2020-11-28T19:26:19 UTC">
+  <suite name="Default suite" duration-ms="4620" started-at="2020-11-29T20:47:44 UTC" finished-at="2020-11-29T20:47:48 UTC">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4184" started-at="2020-11-28T19:26:15 UTC" finished-at="2020-11-28T19:26:19 UTC">
+    <test name="Default test" duration-ms="4620" started-at="2020-11-29T20:47:44 UTC" finished-at="2020-11-29T20:47:48 UTC">
       <class name="tests.LoginTest">
-        <test-method status="PASS" signature="fetchdata()[pri:0, instance:tests.LoginTest@4bbfb90a]" name="fetchdata" is-config="true" duration-ms="353" started-at="2020-11-28T19:26:15 UTC" finished-at="2020-11-28T19:26:15 UTC">
+        <test-method status="PASS" signature="fetchdata()[pri:0, instance:tests.LoginTest@4d95d2a2]" name="fetchdata" is-config="true" duration-ms="372" started-at="2020-11-29T20:47:44 UTC" finished-at="2020-11-29T20:47:44 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchdata -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:tests.LoginTest@4bbfb90a]" name="setup" is-config="true" duration-ms="2328" started-at="2020-11-28T19:26:15 UTC" finished-at="2020-11-28T19:26:17 UTC">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.LoginTest@4d95d2a2]" name="setup" is-config="true" duration-ms="2554" started-at="2020-11-29T20:47:44 UTC" finished-at="2020-11-29T20:47:46 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login()[pri:0, instance:tests.LoginTest@4bbfb90a]" name="login" duration-ms="1471" started-at="2020-11-28T19:26:17 UTC" finished-at="2020-11-28T19:26:19 UTC">
+        <test-method status="PASS" signature="login()[pri:0, instance:tests.LoginTest@4d95d2a2]" name="login" duration-ms="1663" started-at="2020-11-29T20:47:46 UTC" finished-at="2020-11-29T20:47:48 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
