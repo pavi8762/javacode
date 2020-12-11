@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ExportReport" duration-ms="43199" started-at="2020-11-18T12:40:42Z" finished-at="2020-11-18T12:41:25Z">
+    <groups>
+    </groups>
+    <test name="t_001" duration-ms="28966" started-at="2020-11-18T12:40:42Z" finished-at="2020-11-18T12:41:11Z">
+      <class name="test.Test_01">
+        <test-method status="PASS" signature="baseclass1()[pri:0, instance:test.Test_01@2a2d45ba]" name="baseclass1" is-config="true" duration-ms="18079" started-at="2020-11-18T16:40:42Z" finished-at="2020-11-18T16:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass1 -->
+        <test-method status="PASS" signature="t_001()[pri:0, instance:test.Test_01@2a2d45ba]" name="t_001" duration-ms="4305" started-at="2020-11-18T16:41:00Z" finished-at="2020-11-18T16:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t_001 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:test.Test_01@2a2d45ba]" name="quitDriver" is-config="true" duration-ms="6551" started-at="2020-11-18T16:41:04Z" finished-at="2020-11-18T16:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- test.Test_01 -->
+    </test> <!-- t_001 -->
+    <test name="t_002" duration-ms="14200" started-at="2020-11-18T12:41:11Z" finished-at="2020-11-18T12:41:25Z">
+      <class name="test.Test_02">
+        <test-method status="PASS" signature="baseclass1()[pri:0, instance:test.Test_02@1d057a39]" name="baseclass1" is-config="true" duration-ms="10939" started-at="2020-11-18T16:41:11Z" finished-at="2020-11-18T16:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclass1 -->
+        <test-method status="PASS" signature="t_002()[pri:0, instance:test.Test_02@1d057a39]" name="t_002" duration-ms="1458" started-at="2020-11-18T16:41:21Z" finished-at="2020-11-18T16:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t_002 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:test.Test_02@1d057a39]" name="quitDriver" is-config="true" duration-ms="1796" started-at="2020-11-18T16:41:23Z" finished-at="2020-11-18T16:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- test.Test_02 -->
+    </test> <!-- t_002 -->
+  </suite> <!-- ExportReport -->
+</testng-results>

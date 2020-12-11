@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG suite" duration-ms="74" started-at="2020-11-08T16:23:53Z" finished-at="2020-11-08T16:23:53Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="Test1.test10()[pri:0, instance:test.Test1@1efbd816]" name="test10" class="test.Test1"/>
+        <method signature="Test1.test12()[pri:0, instance:test.Test1@1efbd816]" name="test12" class="test.Test1"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="Test1.test1()[pri:0, instance:test.Test1@1efbd816]" name="test1" class="test.Test1"/>
+        <method signature="Test1.test10()[pri:0, instance:test.Test1@1efbd816]" name="test10" class="test.Test1"/>
+        <method signature="Test1.test11()[pri:0, instance:test.Test1@1efbd816]" name="test11" class="test.Test1"/>
+        <method signature="Test1.test12()[pri:0, instance:test.Test1@1efbd816]" name="test12" class="test.Test1"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="TestNG Tests" duration-ms="74" started-at="2020-11-08T16:23:53Z" finished-at="2020-11-08T16:23:53Z">
+      <class name="test.Test1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:test.Test1@1efbd816]" name="test1" duration-ms="16" started-at="2020-11-08T20:23:53Z" finished-at="2020-11-08T20:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test10()[pri:0, instance:test.Test1@1efbd816]" name="test10" duration-ms="3" started-at="2020-11-08T20:23:53Z" finished-at="2020-11-08T20:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:test.Test1@1efbd816]" name="test11" duration-ms="4" started-at="2020-11-08T20:23:53Z" finished-at="2020-11-08T20:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:test.Test1@1efbd816]" name="test12" duration-ms="3" started-at="2020-11-08T20:23:53Z" finished-at="2020-11-08T20:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+      </class> <!-- test.Test1 -->
+    </test> <!-- TestNG Tests -->
+  </suite> <!-- TestNG suite -->
+</testng-results>

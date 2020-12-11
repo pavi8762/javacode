@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+=======
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+>>>>>>> 2be4fc2a80d975f64059bc29a03ea43232e05d0b
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
